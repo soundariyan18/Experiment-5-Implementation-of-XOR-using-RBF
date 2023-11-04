@@ -31,6 +31,7 @@ The RBF of hidden neuron as gaussian function
 
 
 Developed by : M.N.SOUNDARIYAN
+
 REG: 212222230146
 
 
@@ -39,6 +40,13 @@ REG: 212222230146
 /** Write the Algorithm in steps**/
 
 ## PROGRAM:
+
+```
+
+Developed by : M.N.SOUNDARIYAN
+
+REG: 212222230146
+```
 
 ```python
 import numpy as np
